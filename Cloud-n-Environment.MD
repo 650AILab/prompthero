@@ -9,6 +9,7 @@ The style is inspired by Studio Ghibli, Makoto Shinkai, and high-end 2D anime. R
 Image Size: 9.16
 ```
 <Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-01.png?raw=true width="500" />
+<img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-01.png?raw=true width="500" />
 
 Prompt 2
 ```
