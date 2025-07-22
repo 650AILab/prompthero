@@ -40,8 +40,9 @@ The clouds dominate the background, looming over a cinematic street scene with s
 The style is inspired by Studio Ghibli, Makoto Shinkai, and high-end 2D anime. Rendered in hyper-realistic lighting with deep blues, gold highlights, and volumetric layering of clouds.
 Image Size: 9.16
 ```
-<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-01.png?raw=true width="500" />
-<img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-01.png?raw=true width="500" />
+Result:
+
+<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-01.png?raw=true" width="500" />
 
 Prompt 2
 ```
@@ -53,7 +54,7 @@ Telephone poles, wires, and traffic lights cut through the scene. The entire atm
 Use deep blue, teal, and indigo tones in the sky, with warm light scattering through the clouds and rich volumetric fog.
 Image Size: 9:16
 ```
-<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-02.png?raw=true width="500" />
+<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-02.png?raw=true" width="500" />
 
 
 Prompt 3
@@ -64,7 +65,7 @@ The clouds are deep and voluminous, creating multiple overlapping layers with dr
 Rain falls in anime-style vertical streaks, slightly illuminated by orange streetlights and reflections on wet asphalt.
 Image Size: 9:16
 ```
-<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-03.png?raw=true width="500" />
+<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-03.png?raw=true" width="500" />
 
 Prompt 4
 ```
@@ -73,7 +74,7 @@ The clouds are fluffy yet stormy, deeply textured, cel-shaded in a 2D anime rend
 Rain falls in vertical anime-style streaks, slightly glowing from dim warm streetlights. The wet rural road reflects the cloudy sky and scattered lights. Inspired by Studio Ghibli and Makoto Shinkai.
 Image Size: 2:1.
 ```
-<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-04.png?raw=true width="500" />
+<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-04.png?raw=true" width="500" />
 
 
 Prompt 5
@@ -81,7 +82,7 @@ Prompt 5
 Create hyper-realistic 2D animation-style sky filled with tightly packed, massive cumulus and cumulonimbus clouds, overlapping and interlocking like a mountainous wall of storm clouds. The clouds are fluffy yet heavy, stacked from horizon to top of the sky, with little to no sky visible between them.
 They glow softly from within, with golden-orange and cream rim lighting as if backlit by a setting sun. Each cloud is volumetric, textured, and deeply shaded using cel-shaded 2D anime techniques with dramatic light-shadow contrast. The formations create a cinematic, atmospheric ceiling of clouds — inspired by Makoto Shinkai and Studio Ghibli's cloudscapes.
 ```
-<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-05.png?raw=true width="500" />
+<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-05.png?raw=true" width="500" />
 
 
 
@@ -93,7 +94,7 @@ They glow softly from within, with golden-orange and cream rim lighting as if ba
 Rain falls in vertical anime-style streaks, slightly glowing from dim warm streetlights. The wet rural road reflects the cloudy sky and scattered lights. A small kiosk with a neon sign is still open, and waiting for the customer.. the water puddle underneath the kiosk reflects the kiosk and then neon sign.. the overall mood of the image is deep and silent
 Inspired by Studio Ghibli and Makoto Shinkai.
 ```
-<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-06.png?raw=true width="500" />
+<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-06.png?raw=true" width="500" />
 
 
 
@@ -106,7 +107,8 @@ In the bottom of the image, a rural road reflects the cloudy sky and scattered l
 Inspired by Studio Ghibli and Makoto Shinkai.
 Size: 9:16
 ```
-<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-07.png?raw=true width="500" />
+<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-07.png?raw=true" width="500" />
+
 
 
 
