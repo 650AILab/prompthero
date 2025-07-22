@@ -53,24 +53,29 @@ Prompt 2
 Create a cinematic 2D animation-style sky filled with thick layers of golden-orange cumulus clouds glowing from behind during sunset. The clouds are fluffy, highly detailed, and float in layers like giant mounds of cotton candy, with shadows in purple and indigo tones. The sky is soft orange fading into deep indigo. Highly cinematic anime-inspired cloudscape.
 Image size: 9:16
 ```
+<Img src="https://github.com/650AILab/prompthero/blob/main/cloud-02.png?raw=true" width="500" />
 
 Prompt 3
 ```
 Create Hyper-detailed 2D animated cloudscape showing dramatic thunderstorm clouds before rain. Massive cumulonimbus formations dominate the scene, with dark blue-gray shadows and sharp golden light piercing through edges. Highly realistic anime cloud textures with strong volume, contrast, and dynamic lighting.
 Image size: 9:16
 ```
+<Img src="https://github.com/650AILab/prompthero/blob/main/cloud-03.png?raw=true" width="500" />
 
 Prompt 4
 ```
 Create Studio Ghibli-style 2D cloudscape with dense, overcast cumulus clouds glowing softly from the inside. Subtle lighting highlights golden-yellow edges against a deep blue background. Clouds appear thick, atmospheric, and layered with painterly texture.
 Image Size: 9:16
 ```
+<Img src="https://github.com/650AILab/prompthero/blob/main/cloud-04.png?raw=true" width="500" />
 
 Prompt 5
 ```
 Create a dreamy, cinematic 2D animation-style sky filled with floating layers of fluffy cumulus clouds stretching to the horizon. The clouds are glowing gently with warm highlights, giving a surreal ocean-of-clouds feel. High contrast between light and shade, inspired by Makoto Shinkai’s animation work.
 Image Size: 9:16
 ```
+<Img src="https://github.com/650AILab/prompthero/blob/main/cloud-05.png?raw=true" width="500" />
+
 
 # Cloud and Environment Prompt
 
