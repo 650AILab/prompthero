@@ -120,5 +120,18 @@ Size: 9:16
 ```
 <Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-08.png?raw=true" width="500" />
 
+Prompt 9:
+```
+Hyper-realistic 2D animation-style scene of a moody urban street during heavy rainfall at dusk. The sky is filled with extra-dense, layered, massive cumulus and cumulonimbus cloud formations stretching across the horizon and vertically stacked into the sky.
+Each cloud is heavily textured, fluffy but stormy, glowing softly from within with golden-cream rim light as if backlit by a fading sun.
+The clouds are deep and voluminous, creating multiple overlapping layers with dramatic contrast between light and shadow.
+Rain falls in anime-style vertical streaks, slightly illuminated by orange streetlights and reflections on wet asphalt.
+Telephone poles, wires, and traffic lights cut through the scene. The entire atmosphere is cinematic and painterly — inspired by Studio Ghibli, Makoto Shinkai, and high-end anime.
+Use deep blue, teal, and indigo tones in the sky, with warm light scattering through the clouds and rich volumetric fog.
+```
+<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-09.png?raw=true" width="500" />
+
+
+
 
 
