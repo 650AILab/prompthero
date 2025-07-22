@@ -57,5 +57,10 @@ Inspired by Studio Ghibli and Makoto Shinkai.
 
 Prompt 7
 ```
+Create hyper-realistic 2D animation-style sky filled with tightly packed, massive cumulus and cumulonimbus clouds, overlapping and interlocking like a mountainous wall of storm clouds. The clouds are fluffy yet heavy, stacked from horizon to half of the image, above the clouds the blue sky is visible between them.
+They glow softly from within, with golden-orange and cream rim lighting as if backlit by a setting sun. Each cloud is volumetric, textured, and deeply shaded using cel-shaded 2D anime techniques with dramatic light-shadow contrast. The formations create a cinematic, atmospheric ceiling of clouds — inspired by Makoto Shinkai and Studio Ghibli's cloudscapes.
 
+In the bottom of the image, a rural road reflects the cloudy sky and scattered lights. The wetness in the road shows the rain just stopped. A 7-11 type of store is visible on one side of the road with a neon sign shows still open, and waiting for the customers.. the wet street  reflects the shop and then neon sign.. the overall mood of the image is deep and silent. 
+Inspired by Studio Ghibli and Makoto Shinkai.
+Size: 9:16
 ```
