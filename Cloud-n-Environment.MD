@@ -109,6 +109,16 @@ Size: 9:16
 ```
 <Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-07.png?raw=true" width="500" />
 
+Prompt 8:
+```
+Create hyper-realistic 2D animation-style sky filled with tightly packed, massive cumulus and cumulonimbus clouds, overlapping and interlocking like a mountainous wall of storm clouds. The clouds are fluffy yet heavy, stacked from horizon to half of the image, above the clouds the blue sky is visible between them.
+They glow softly from within, with golden-orange and cream rim lighting as if backlit by a setting sun. Each cloud is volumetric, textured, and deeply shaded using cel-shaded 2D anime techniques with dramatic light-shadow contrast. The formations create a cinematic, atmospheric ceiling of clouds — inspired by Makoto Shinkai and Studio Ghibli's cloudscapes.
+
+In the bottom of the image, an urban road reflects the cloudy sky and scattered lights, through a series of light poles and street lights. The wetness in the road shows the rain just stopped, reflection from street lights on the wet street creates a romantic feel to the environment.  A few stores of various types are visible on both side of the road with neon signs hanging on top. The wet street  reflects the shop and their neon sign.. the overall mood of the scene is romantic, deep and silent. 
+Inspired by Studio Ghibli and Makoto Shinkai.
+Size: 9:16
+```
+<Img src="https://github.com/650AILab/prompthero/blob/main/images/cloud-env-08.png?raw=true" width="500" />
 
 
 
