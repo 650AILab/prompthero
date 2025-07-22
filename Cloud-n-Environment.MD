@@ -22,24 +22,36 @@ Image Size: 9:16
 
 Prompt 3
 ```
-
+Create Hyper-realistic 2D animation-style scene of a moody urban street during heavy rainfall at dusk. The sky is filled with extra-dense, layered, massive cumulus and cumulonimbus cloud formations stretching across the horizon and vertically stacked into the sky.
+Each cloud is heavily textured, fluffy but stormy, glowing orange softly from within with golden-cream rim light as if backlit by a fading sun. Add low-hanging cloud base with misty transitions. These clouds are cel-shaded 2D anime rendering and contains high shadow detail.
+The clouds are deep and voluminous, creating multiple overlapping layers with dramatic contrast between light and shadow.
+Rain falls in anime-style vertical streaks, slightly illuminated by orange streetlights and reflections on wet asphalt.
+Image Size: 9:16
 ```
 
 Prompt 4
 ```
-
+Hyper-realistic 2D animation-style scene of a moody rural street during heavy rainfall at dusk. The sky is filled with towering, layered cumulonimbus clouds like cloud mountains, glowing softly from within with golden-cream rim light as if backlit by the setting sun.
+The clouds are fluffy yet stormy, deeply textured, cel-shaded in a 2D anime rendering style with high shadow contrast and misty low cloud bases.
+Rain falls in vertical anime-style streaks, slightly glowing from dim warm streetlights. The wet rural road reflects the cloudy sky and scattered lights. Inspired by Studio Ghibli and Makoto Shinkai.
+Image Size: 2:1.
 ```
 
 
 Prompt 5
 ```
-
+Create hyper-realistic 2D animation-style sky filled with tightly packed, massive cumulus and cumulonimbus clouds, overlapping and interlocking like a mountainous wall of storm clouds. The clouds are fluffy yet heavy, stacked from horizon to top of the sky, with little to no sky visible between them.
+They glow softly from within, with golden-orange and cream rim lighting as if backlit by a setting sun. Each cloud is volumetric, textured, and deeply shaded using cel-shaded 2D anime techniques with dramatic light-shadow contrast. The formations create a cinematic, atmospheric ceiling of clouds — inspired by Makoto Shinkai and Studio Ghibli's cloudscapes.
 ```
 
 
 Prompt 6
 ```
+Create hyper-realistic 2D animation-style sky filled with tightly packed, massive cumulus and cumulonimbus clouds, overlapping and interlocking like a mountainous wall of storm clouds. The clouds are fluffy yet heavy, stacked from horizon to top of the sky, with little to no sky visible between them.
+They glow softly from within, with golden-orange and cream rim lighting as if backlit by a setting sun. Each cloud is volumetric, textured, and deeply shaded using cel-shaded 2D anime techniques with dramatic light-shadow contrast. The formations create a cinematic, atmospheric ceiling of clouds — inspired by Makoto Shinkai and Studio Ghibli's cloudscapes.
 
+Rain falls in vertical anime-style streaks, slightly glowing from dim warm streetlights. The wet rural road reflects the cloudy sky and scattered lights. A small kiosk with a neon sign is still open, and waiting for the customer.. the water puddle underneath the kiosk reflects the kiosk and then neon sign.. the overall mood of the image is deep and silent
+Inspired by Studio Ghibli and Makoto Shinkai.
 ```
 
 
