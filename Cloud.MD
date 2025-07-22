@@ -46,7 +46,7 @@ The sky is a deep blue-teal gradient, transitioning from light at the bottom to 
 Inspired by Studio Ghibli and Makoto Shinkai cloudscapes, with painterly lighting, soft color transitions, and anime-like rendering.
 Image side: 9:16
 ```
-<img src="https://github.com/650AILab/prompthero/blob/main/cloud-01.png?raw=true" />
+<img src="https://github.com/650AILab/prompthero/blob/main/cloud-01.png?raw=true" h="800" />
 
 Prompt 2
 ```
